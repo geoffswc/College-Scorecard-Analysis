@@ -16,4 +16,4 @@ This notebook investigates the possibility that 1st year pay for Data Science de
 
 4. Debt-To-2YR-Earnings.ipynb
 
-This notebook investigates and expandss on the queries and calculations used in a Wall Street Journal article on student debt to income ratios from masters degree programs at elite colleges.
+This notebook investigates and expandss on the queries and calculations used in two Wall Street Journal articles on student debt to income ratios from masters degree programs at elite colleges and aat law schools.
