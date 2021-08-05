@@ -13,3 +13,7 @@ This notebook looks into 1st year pay for degrees commonly associated with Data 
 3. BiModal-By-Degree.ipynb
 
 This notebook investigates the possibility that 1st year pay for Data Science degrees is starting to show a bimodal pattern similar to Law (JD) degrees.
+
+4. Debt-To-2YR-Earnings.ipynb
+
+This notebook investigates and expandss on the queries and calculations used in a Wall Street Journal article on student debt to income ratios from masters degree programs at elite colleges.
